@@ -72,13 +72,13 @@ I'm currently studiyng web development and building projects to improve my skill
 ### Statistics
 
 <p>
-  <img 
+  <!-- <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=esequielajr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+  /> -->
 
 <img 
       align="left" 
