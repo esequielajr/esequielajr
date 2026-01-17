@@ -65,26 +65,3 @@ I'm currently studiyng web development and building projects to improve my skill
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
-### Statistics
-
-<p>
-  <!-- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=esequielajr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  /> -->
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=esequielajr&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
