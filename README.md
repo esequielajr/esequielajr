@@ -2,7 +2,8 @@
 
 **`Aspiring Fullstack Developer`**
 
-<p>My name is Esequiel Ataliba Júnior. I'm 17 years old and I'm from Rio de Janeiro, Brazil. <br>
+<p>My name is Esequiel Ataliba Júnior. I'm 18 years old and I'm from Rio de Janeiro, Brazil. <br>
+At the moment, I'm Software Engineering student. <br>
 I'm currently studiyng web development and building projects to improve my skills.</p>
 
 ---
