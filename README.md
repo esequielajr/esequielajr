@@ -13,7 +13,7 @@ I'm currently focused on Backend Development, building projects with Java, Sprin
 **`Stack`**
 
 - Backend: Java & Spring Boot
-- Database: PostgreSQL, Sqlite3
+- Database: PostgreSQL, SQLite3
 - Cloud & Tools: Git, AWS, Linux, Shell Scripting
 
 **`Current Focus`**
