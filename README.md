@@ -25,7 +25,7 @@ My goal is, as soon as possible, building robust API projects.
 
 ---
 
-### Languages and Technologies
+### Languages & Technologies
 
 <img 
     align="left" 
