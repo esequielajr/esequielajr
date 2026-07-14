@@ -1,10 +1,27 @@
-## Esequiel Ataliba Júnior
+### Backend Developer
 
-**`Data Engineering Student`**
+---
 
-<p>My name is Esequiel Ataliba Júnior.<br>
-At the moment, I'm graduating Software Engineering.<br>
-I'm currently focused on Data Engineering and Backend Development, building projects with Python and SQL.</p>
+**`About Me`**
+
+<p>
+My name is Esequiel Ataliba Júnior.<br>
+At the moment, I'm graduating <strong>Software Enginnering.</strong><br>
+I'm currently focused on Backend Development, building projects with Java, Spring and SQL.
+</p>
+
+**`Stack`**
+
+- Backend: Java & Spring Boot
+- Database: PostgreSQL, Sqlite3
+- Cloud & Tools: Git, AWS, Linux, Shell Scripting
+
+**`Current Focus`**
+
+<p>
+Actually, I'm learning Java & Spring Boot.<br> 
+My goal is, as soon as possible, building robust API projects.
+</p>
 
 ---
 
@@ -12,19 +29,19 @@ I'm currently focused on Data Engineering and Backend Development, building proj
 
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img
     allign="left"
@@ -42,4 +59,3 @@ I'm currently focused on Data Engineering and Backend Development, building proj
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
-    
