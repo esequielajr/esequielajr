@@ -1,8 +1,6 @@
-### Backend Developer
+## Backend Developer
 
----
-
-**`About Me`**
+*`About Me`*
 
 <p>
 My name is Esequiel Ataliba Júnior.<br>
@@ -10,13 +8,13 @@ At the moment, I'm graduating <strong>Software Enginnering.</strong><br>
 I'm currently focused on Backend Development, building projects with Java, Spring and SQL.
 </p>
 
-**`Stack`**
+*`Stack`*
 
 - Backend: Java & Spring Boot
 - Database: PostgreSQL, SQLite3
 - Cloud & Tools: Git, AWS, Linux, Shell Scripting
 
-**`Current Focus`**
+*`Current Focus`*
 
 <p>
 Actually, I'm learning Java & Spring Boot.<br> 
