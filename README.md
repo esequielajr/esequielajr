@@ -1,45 +1,39 @@
-## Backend Developer
+## Data Analyst
 
-*`About Me`*
+### 💻 About Me
 
-<p>
-My name is Esequiel Ataliba Júnior.<br>
-At the moment, I'm graduating <strong>Software Enginnering.</strong><br>
-I'm currently focused on Backend Development, building projects with Java, Spring and SQL.
-</p>
+Data Analyst with a Software Engineering background. My focus is turning raw data into actionable insights using Python, SQL and Linux Automation.
+Coming from backend development, I bring strong logic and structure to my analysis — I understand how data is stored, modeled and consumed by systems.
 
-*`Stack`*
+### 🎯 Current Focus
 
-- Backend: Java & Spring Boot
-- Database: PostgreSQL, SQLite3
-- Cloud & Tools: Git, AWS, Linux, Shell Scripting
+Actively building hands-on projects in Data Analysis:
+- Exploratory Data Analysis (EDA) with Python/Pandas
+- Database modeling and complex queries with SQL
+- Dashboards and reporting with Excel & Power BI
 
-*`Current Focus`*
-
-<p>
-Actually, I'm learning Java & Spring Boot.<br> 
-My goal is, as soon as possible, building robust API projects.
-</p>
+📫 Contact: eajr.secure@proton.me
 
 ---
 
-### Languages & Technologies
+### Stack
+
+<img
+    align="left"
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"        
+/>
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img
     allign="left"
@@ -51,9 +45,18 @@ My goal is, as soon as possible, building robust API projects.
 />
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain.svg"
+/>
+
