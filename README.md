@@ -12,8 +12,6 @@ Actively building hands-on projects in Data Analysis:
 - Database modeling and complex queries with SQL
 - Dashboards and reporting with Excel & Power BI
 
-📫 Contact: eajr.secure@proton.me
-
 ---
 
 ### Stack
